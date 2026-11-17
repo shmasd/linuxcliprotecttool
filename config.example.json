@@ -1,0 +1,5 @@
+{
+  "tcp_ports": [22],
+  "udp_ports": [],
+  "allowlist": []
+}
